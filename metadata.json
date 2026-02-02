@@ -1,0 +1,7 @@
+{
+  "name": "Subala Computer & Compose Portal",
+  "description": "A professional business directory and service portal for Subala Computer & Compose, featuring real-time status, service listings, and AI-powered assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
