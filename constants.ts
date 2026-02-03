@@ -12,7 +12,7 @@ export const BUSINESS_DATA: BusinessInfo = {
   "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14674.347526117464!2d89.3142!3d23.2384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDE0JzE4LjIiTiA4OcKwMTgnNTEuMSJF!5e0!3m2!1sen!2sbd!4v1710000000000!5m2!1sen!2sbd",
   "logoLetter": "S",
   "logoGradient": "from-blue-600 to-indigo-700",
-  ""logoImage": "https://raw.githubusercontent.com/itsupermax6-star/logo.png/main/Untitled-3.png"
+  "logoImage": "https://raw.githubusercontent.com/itsupermax6-star/logo.png/main/Untitled-3.png"
 ",
   "services": [
     {
